@@ -1,0 +1,24 @@
+{
+  "name": "event-mirror",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirc89/event-mirror.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirc89/event-mirror/issues"
+  },
+  "homepage": "https://github.com/mirc89/event-mirror#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.9.2"
+  }
+}
