@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/mirc89/event-mirror#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.4.2",
     "express": "^4.14.0",
     "mongoose": "^4.5.4",
     "nodemon": "^1.9.2"
